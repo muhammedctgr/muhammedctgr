@@ -10,7 +10,7 @@ I'm an experienced IT Service specialist with major focus in software engineerin
 * 🖥️  See my portfolio at [Portfolio](http://p-muhammed.github.io)
 * ✉️  You can contact me at [muhammedko420@gmail.com](mailto:muhammedko420@gmail.com)
 * 🧠  I'm learning Rust.
-* 🤝  I'm open to collaborating on Real world projects
+* 🤝  I'm open to collaborating on real world projects
 
 ### Skills
 
