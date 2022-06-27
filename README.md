@@ -7,7 +7,7 @@ Software Engineer
 I'm an experienced IT Service specialist with major focus in software engineering. I have been writing computer programs for more than 3 years. Whenever I feel less enthusiastic about frontend development, I bury myself learning Rust for backend development.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Portfolio](http://p-muhammed.github.io)
+* 🖥️  See my portfolio at [Portfolio](http://muhammedctgr.github.io)
 * ✉️  You can contact me at [muhammedko420@gmail.com](mailto:muhammedko420@gmail.com)
 * 🧠  I'm learning Rust.
 * 🤝  I'm open to collaborating on real world projects
