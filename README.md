@@ -8,7 +8,7 @@ I'm an experienced IT Service specialist with major focus in software engineerin
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Portfolio](http://muhammedctgr.github.io)
-* ✉️  You can contact me at [muhammedko420@gmail.com](mailto:muhammedko420@gmail.com)
+* ✉️  You can contact me at [p.hammedctgr@gmail.com](mailto:p.hammedctgr@gmail.com)
 * 🧠  I'm learning Rust.
 * 🤝  I'm open to collaborating on real world projects
 
