@@ -2,14 +2,13 @@ Popoola Muhammed
 =================================
 
 Software Engineer
------------------
+----------
+I'm an experienced IT Service specialist with focus in software engineering, IT Ops.
 
-I'm an experienced IT Service specialist with major focus in software engineering. I have been writing computer programs for more than 3 years. Whenever I feel less enthusiastic about frontend development, I bury myself learning Rust for backend development.
-
-* 🌍  I'm based in Nigeria
+* 🌍  Remote
 * 🖥️  See my portfolio at [Portfolio](http://muhammedctgr.github.io)
 * ✉️  You can contact me at [p.hammedctgr@gmail.com](mailto:p.hammedctgr@gmail.com)
-* 🧠  I'm learning Rust.
+* 🧠  Learning Rust.
 * 🤝  I'm open to collaborating on real world projects
 
 ### Skills
