@@ -1,4 +1,4 @@
-Hi 👋 My name is Popoola Muhammed
+Popoola Muhammed
 =================================
 
 Software Engineer
