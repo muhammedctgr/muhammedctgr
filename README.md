@@ -6,7 +6,7 @@ Software Engineer
 I'm an experienced IT Service specialist with major focus in software engineering, IT Ops.
 
 * 🌍  Remote
-* 🖥️  See my [Portfolio](http://muhammedctgr.github.io)
+* 🖥️  See my [Portfolio](https://hammedctgr.vercel.app/)
 * ✉️  You can contact me at [p.hammedctgr@gmail.com](mailto:p.hammedctgr@gmail.com)
 * 🧠  Learning Rust.
 * 🤝  I'm open to collaborating on real world projects
