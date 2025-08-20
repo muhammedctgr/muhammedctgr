@@ -8,7 +8,7 @@ I'm an experienced IT Service specialist with major focus in software engineerin
 * 🌍  Remote
 * 🖥️  See my [Portfolio](https://hammedctgr.vercel.app/)
 * ✉️  You can contact me at [p.hammedctgr@gmail.com](mailto:p.hammedctgr@gmail.com)
-* 🧠  Learning Rust.
+* 🧠  Learning Solidity(Foundry), Rust.
 * 🤝  I'm open to collaborating on real world projects
 
 ### Skills
