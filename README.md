@@ -30,7 +30,7 @@ I'm an experienced IT Service specialist with major focus in software engineerin
 <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
 <a href="https://getfoundry.sh/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/your-repo/your-assets/master/icons/skills/foundry-colored.svg" width="36" height="36" alt="Foundry" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/foundry-colored.svg" width="36" height="36" alt="Foundry" />
 </a>
 </p>
 
