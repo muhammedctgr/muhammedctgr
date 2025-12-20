@@ -3,7 +3,7 @@ hammedctgr
 
 Software Engineer
 ----------
-I'm an experienced IT Service specialist with major focus in software engineering, IT Ops.
+Blockchain, ML, Maths.
 
 * 🌍  Remote
 * 🖥️  See my [Portfolio](https://hammedctgr.vercel.app/)
