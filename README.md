@@ -8,7 +8,7 @@ Blockchain, ML, Maths.
 * 🌍  Remote
 * 🖥️  See my [Portfolio](https://hammedctgr.vercel.app/)
 * ✉️  You can contact me at [p.hammedctgr@gmail.com](mailto:p.hammedctgr@gmail.com)
-* 🧠  Learning Solidity(Foundry), Rust.
+* 🧠  Learning Solidity, Rust.
 * 🤝  I'm open to collaborating on real world projects
 
 ### Skills
